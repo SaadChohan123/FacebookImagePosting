@@ -1,0 +1,10 @@
+D:\01Projects\FacebookPosting\FacebookPosting\bin\Debug\FacebookPosting.exe.config
+D:\01Projects\FacebookPosting\FacebookPosting\bin\Debug\FacebookPosting.exe
+D:\01Projects\FacebookPosting\FacebookPosting\bin\Debug\FacebookPosting.pdb
+D:\01Projects\FacebookPosting\FacebookPosting\bin\Debug\Facebook.dll
+D:\01Projects\FacebookPosting\FacebookPosting\bin\Debug\Facebook.xml
+D:\01Projects\FacebookPosting\FacebookPosting\obj\Debug\FacebookPosting.csprojAssemblyReference.cache
+D:\01Projects\FacebookPosting\FacebookPosting\obj\Debug\FacebookPosting.csproj.CoreCompileInputs.cache
+D:\01Projects\FacebookPosting\FacebookPosting\obj\Debug\FacebookPosting.csproj.CopyComplete
+D:\01Projects\FacebookPosting\FacebookPosting\obj\Debug\FacebookPosting.exe
+D:\01Projects\FacebookPosting\FacebookPosting\obj\Debug\FacebookPosting.pdb
